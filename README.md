@@ -62,6 +62,7 @@ A modern and scalable **Flutter News Application** built using clean architectur
 ## 🎥 App Demo Video
 
 👉 Click below to watch the demo:
+<img width="1080" height="2400" alt="4" src="https://github.com/user-attachments/assets/24aa0fb1-eeeb-4040-aa2a-a84946250e5c" />
 
 
 
