@@ -1,17 +1,167 @@
-# advande_apkstatmangement
+# 📰 World News App (Flutter)
 
-A new Flutter project.
+A modern and scalable **Flutter News Application** built using clean architecture principles. This app fetches news from an API and provides a smooth, user-friendly experience with state management, caching, animations, and theming.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+* 🔗 **News API Integration**
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+  * Fetch latest news dynamically from API
+  * Smooth image loading and error handling
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* 💾 **Local Storage (SharedPreferences)**
+
+  * Save user preferences like theme (Light/Dark)
+  * Persist app settings
+
+* 🎬 **Lottie Animation**
+
+  * Beautiful animated splash screen
+  * Enhances user experience
+
+* 🧠 **State Management (Provider)**
+
+  * Clean and scalable architecture
+  * Efficient UI updates
+
+* 🌗 **Dark / Light Theme Toggle**
+
+  * Switch themes using Provider
+  * Persistent theme using SharedPreferences
+
+* 🔄 **Refresh Functionality**
+
+  * Floating Action Button (FAB) to refresh news
+  * Manual refresh support on Home Screen
+
+* ⚡ **Optimized UI/UX**
+
+  * Fast loading
+  * Minimal and clean design
+
+---
+
+## 📱 Screenshots
+
+### 🏠 Home Screen
+
+![Home Screen](assets/images/home.png)
+
+### 🌙 Dark Mode
+
+![Dark Mode](assets/images/dark_mode.png)
+
+### 🎬 Splash Screen (Lottie)
+
+![Splash Screen](assets/images/splash.png)
+
+---
+
+## 🎥 App Demo Video
+
+👉 Click below to watch the demo:
+
+[![Watch Video](assets/images/video_thumbnail.png)](screenshots/Video Project.mp4)
+
+> 📌 Make sure your video is inside:
+> `assets/videos/demo.mp4`
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+│── providers/         # Provider state management
+│── screens/           # UI screens
+│── main.dart          # App entry point
+```
+
+---
+
+## ⚙️ Packages Used
+
+* `provider` → State Management
+* `http` → API Calls
+* `shared_preferences` → Local Storage
+* `lottie` → Animations
+
+---
+
+## 🛠️ Installation & Setup
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/world-news-app.git
+```
+
+2. Navigate to project folder
+
+```bash
+cd world-news-app
+```
+
+3. Install dependencies
+
+```bash
+flutter pub get
+```
+
+4. Run the app
+
+```bash
+flutter run
+```
+
+---
+
+## 📁 Assets Setup
+
+Add your assets in `pubspec.yaml`:
+
+```yaml
+flutter:
+  assets:
+    - assets/images/
+    - assets/videos/
+    - assets/lottie/
+```
+
+---
+
+## 🧩 Future Improvements
+
+* 🔍 Search functionality
+* 📌 Bookmark news
+* 🌍 Category-wise filtering
+* 🔔 Push notifications
+
+---
+
+## 👨‍💻 Developer
+
+**Yogesh Makwana**
+
+* 💼 Flutter Developer
+* 🎓 BCA Student (Gujarat University)
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+* ⭐ Star this repo
+* 🍴 Fork it
+* 🛠️ Contribute
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
