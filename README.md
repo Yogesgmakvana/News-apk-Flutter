@@ -42,25 +42,19 @@ A modern and scalable **Flutter News Application** built using clean architectur
   * Minimal and clean design
 
 ---
+<h3 align="center">🏠 Home Screen & 🌙 Dark Mode</h3>
+<p align="center">
+  <img src="screenshots/1.png" width="300"/>
+  <img src="screenshots/4.png" width="300"/>
+</p>
 
-## 📱 Screenshots
+<h3 align="center">🎬 Splash & ⚙️ Settings</h3>
+<p align="center">
+  <img src="screenshots/5.png" width="250"/>
+  <img src="screenshots/2.png" width="250"/>
+  <img src="screenshots/3.png" width="250"/>
+</p>
 
-### 🏠 Home Screen                           <hr>            ### 🌙 Dark Mode
-<img src="screenshots/1.png" width="300"/>    <hr>      <img src="screenshots/4.png" width="300"/>
-
-
-
-
-
-### 🎬 Splash Screen (Lottie)
-<img src="screenshots/5.png" width="300"/>
-
----
-
-###  Setting screen (Lottie)
-<img src="screenshots/2.png" width="300"/>
-<img src="screenshots/3.png" width="300"/>
-## 🎥 App Demo Video
 
 
 
