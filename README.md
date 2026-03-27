@@ -63,10 +63,10 @@ A modern and scalable **Flutter News Application** built using clean architectur
 
 👉 Click below to watch the demo:
 
-[![Watch Video](assets/images/video_thumbnail.png)](screenshots/Video Project.mp4)
+<a href="assets/videos/demo.mp4">
+  <img src="screenshots/video_thumbnail.png" width="100%" />
+</a>
 
-> 📌 Make sure your video is inside:
-> `assets/videos/demo.mp4`
 
 ---
 
