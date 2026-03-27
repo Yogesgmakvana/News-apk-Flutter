@@ -125,9 +125,10 @@ Add your assets in `pubspec.yaml`:
 ```yaml
 flutter:
   assets:
-    - assets/images/
-    - assets/videos/
-    - assets/lottie/
+    - assets/
+    - videos
+    - apk icon
+    - lottie
 ```
 
 ---
