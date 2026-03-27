@@ -47,15 +47,15 @@ A modern and scalable **Flutter News Application** built using clean architectur
 
 ### 🏠 Home Screen
 
-![Home Screen](assets/images/home.png)
+![Home Screen](screenshots/1.png)
 
 ### 🌙 Dark Mode
 
-![Dark Mode](assets/images/dark_mode.png)
+![Dark Mode](screenshots/4.png)
 
 ### 🎬 Splash Screen (Lottie)
 
-![Splash Screen](assets/images/splash.png)
+![Splash Screen](screenshots/5.png)
 
 ---
 
