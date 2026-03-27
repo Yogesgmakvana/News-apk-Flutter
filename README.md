@@ -58,6 +58,9 @@ A modern and scalable **Flutter News Application** built using clean architectur
 
 ---
 
+###  Setting screen (Lottie)
+<img src="screenshots/2.png" width="300"/>
+<img src="screenshots/3.png" width="300"/>
 ## 🎥 App Demo Video
 
 
