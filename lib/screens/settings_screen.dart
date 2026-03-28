@@ -20,7 +20,7 @@ class SettingsScreen extends StatelessWidget {
         child: Column(
           children: [
 
-            /// 🔙 Go to Home Button
+            /// Go to Home Button
             ListTile(
               leading: const Icon(Icons.home),
               title: const Text("Go to Home"),
@@ -37,7 +37,7 @@ class SettingsScreen extends StatelessWidget {
 
             const Divider(),
 
-            /// 🌙 Dark Mode Toggle
+            ///  Dark Mode Toggle
             SwitchListTile(
               title: const Text("Dark Mode"),
               secondary: const Icon(Icons.dark_mode),
